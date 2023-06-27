@@ -1,4 +1,4 @@
-### Hi there 👋
+A dedicated Software Developer with a strong foundation in sales and a passion for coding. With a proven track record of effectively communicating and delivering exceptional outcomes for clients, I bring a unique blend of sales expertise and technical skills to the table. My commitment to delivering tasks to the highest standard fuels my drive for success in the field of software development. Building upon my client-focused approach, I am eager to contribute to the development of innovative solutions and establish lasting relationships within the industry.
 
 <!--
 **stewartbottomley/stewartbottomley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
